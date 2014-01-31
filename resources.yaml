@@ -128,3 +128,6 @@
 # - dir: datasets/dataset_caltech_unicorn
 #   url: git@github.com:AndreaCensi/dataset_caltech_unicorn.git
 #   branch: env_fault
+
+- dir: datasets/posegraphdatasets
+  url: git@bitbucket.org:lucacarlone/posegraphdatasets.git
