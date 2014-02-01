@@ -132,7 +132,21 @@
 - dir: src/outliers
   url: git@bitbucket.org:lucacarlone/outliers-rejection-in-se-2.git
   
-- dir: src/graph_datasets
-  url: ssh://git@ac.repositoryhosting.com/ac/graph_datasets.git
+- dir: datasets/posegraphdatasets
+  url: git@bitbucket.org:lucacarlone/posegraphdatasets.git
 
+- dir: docs/posegraphdatasets
+  url: git@bitbucket.org:lucacarlone/posegraphdatasets.git
+
+- dir: docs/references
+  url: git@bitbucket.org:lucacarlone/references.git
+
+- dir: docs/conferencePapers
+  url: git@bitbucket.org:lucacarlone/conferencepapers.git
   
+# cancellare
+# - dir: src/graph_datasets
+#   url: ssh://git@ac.repositoryhosting.com/ac/graph_datasets.git
+  
+
+
